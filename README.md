@@ -1,2 +1,2 @@
-# tkp-java-quality-checks
+# java-quality-checks
 Source code quality check for Java
